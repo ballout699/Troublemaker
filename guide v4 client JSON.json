@@ -14,22 +14,22 @@
   
   "startapp_id": "xxxxxxxx",
 
-  "Interstitial": "00",
-  "Banner": "000",
-  "Native": "000",
-  "Rewarded": "000",
+  "Interstitial": "0f13f9bcf0ad241e",
+  "Banner": "165b2e181b13753e",
+  "Native": "207be33a6b23483b",
+  "Rewarded": "2447e47c06cd7680",
   
   
   "main_inter": true,
-  "os_inter": false,
-  "gender_inter": false,
+  "os_inter": true,
+  "gender_inter": true,
   "age_inter": true,
-  "setup_inter": false,
+  "setup_inter": true,
   
-  "rate": false,
+  "rate": true,
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 1,
+  "native_rate": 1,
   
   "rating_exit_popup": true,
   
